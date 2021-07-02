@@ -38,14 +38,6 @@
             >
               Se connecter
             </v-btn>
-            <v-btn
-              text
-              rounded
-              nuxt
-              to="/register"
-            >
-              S'inscrire
-            </v-btn>
           </v-card-actions>
         </v-card>
       </v-col>
